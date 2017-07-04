@@ -2,7 +2,7 @@
 "directories": [
 {"path": "isu_map", "modulePrefix": "isu_map", "modules": ["views.py", "models.py", "urls.py"]},
 {"path": "adjuster", "modulePrefix": "adjuster", "modules": ["views.py", "models.py", "urls.py"]},
-{"path": "adjuster/some_submodule", "modulePrefix": "adjuster.some_submodule", "modules": ["views.py", "models.py", "urls.py"]},
+{"path": "adjuster/some_submodule", "modulePrefix": "adjuster.some_submodule", "modules": ["views.py", "models.py", "urls.py"]}
 ],
 "nuitka_options": ["--no-strip", "--debug"]
 }
